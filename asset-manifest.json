@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.936a4e4a.chunk.css",
+    "main.js": "/static/js/main.762634fc.chunk.js",
+    "main.js.map": "/static/js/main.762634fc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1dbfc099.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1dbfc099.js.map",
+    "static/css/2.d8077e82.chunk.css": "/static/css/2.d8077e82.chunk.css",
+    "static/js/2.d3efe588.chunk.js": "/static/js/2.d3efe588.chunk.js",
+    "static/js/2.d3efe588.chunk.js.map": "/static/js/2.d3efe588.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1eb56b5bad9bcdf1c91cc834dffbe2d2.js": "/precache-manifest.1eb56b5bad9bcdf1c91cc834dffbe2d2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d8077e82.chunk.css.map": "/static/css/2.d8077e82.chunk.css.map",
+    "static/css/main.936a4e4a.chunk.css.map": "/static/css/main.936a4e4a.chunk.css.map",
+    "static/js/2.d3efe588.chunk.js.LICENSE.txt": "/static/js/2.d3efe588.chunk.js.LICENSE.txt",
+    "static/media/businessSearchApp.JPG": "/static/media/businessSearchApp.efad71ea.JPG",
+    "static/media/divoc.JPG": "/static/media/divoc.6e2d42b2.JPG",
+    "static/media/encryptionProject.JPG": "/static/media/encryptionProject.6a591f5f.JPG",
+    "static/media/profile.jpg": "/static/media/profile.2523522f.jpg",
+    "static/media/rakApp.JPG": "/static/media/rakApp.4b76d453.JPG",
+    "static/media/recipeMeetsYou.JPG": "/static/media/recipeMeetsYou.d8ac66c7.JPG",
+    "static/media/venditShoppingApp.JPG": "/static/media/venditShoppingApp.6367ea31.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dbfc099.js",
+    "static/css/2.d8077e82.chunk.css",
+    "static/js/2.d3efe588.chunk.js",
+    "static/css/main.936a4e4a.chunk.css",
+    "static/js/main.762634fc.chunk.js"
+  ]
+}
