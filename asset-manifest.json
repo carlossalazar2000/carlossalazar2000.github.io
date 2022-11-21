@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/carlossalazar2000/carlossalazar2000.github.io/static/css/main.936a4e4a.chunk.css",
+    "main.js": "/carlossalazar2000/carlossalazar2000.github.io/static/js/main.88d6d0a7.chunk.js",
+    "main.js.map": "/carlossalazar2000/carlossalazar2000.github.io/static/js/main.88d6d0a7.chunk.js.map",
+    "runtime-main.js": "/carlossalazar2000/carlossalazar2000.github.io/static/js/runtime-main.8659cf57.js",
+    "runtime-main.js.map": "/carlossalazar2000/carlossalazar2000.github.io/static/js/runtime-main.8659cf57.js.map",
+    "static/css/2.d8077e82.chunk.css": "/carlossalazar2000/carlossalazar2000.github.io/static/css/2.d8077e82.chunk.css",
+    "static/js/2.d3efe588.chunk.js": "/carlossalazar2000/carlossalazar2000.github.io/static/js/2.d3efe588.chunk.js",
+    "static/js/2.d3efe588.chunk.js.map": "/carlossalazar2000/carlossalazar2000.github.io/static/js/2.d3efe588.chunk.js.map",
+    "index.html": "/carlossalazar2000/carlossalazar2000.github.io/index.html",
+    "precache-manifest.3a201b9005f54391a9fbd0e052e82767.js": "/carlossalazar2000/carlossalazar2000.github.io/precache-manifest.3a201b9005f54391a9fbd0e052e82767.js",
+    "service-worker.js": "/carlossalazar2000/carlossalazar2000.github.io/service-worker.js",
+    "static/css/2.d8077e82.chunk.css.map": "/carlossalazar2000/carlossalazar2000.github.io/static/css/2.d8077e82.chunk.css.map",
+    "static/css/main.936a4e4a.chunk.css.map": "/carlossalazar2000/carlossalazar2000.github.io/static/css/main.936a4e4a.chunk.css.map",
+    "static/js/2.d3efe588.chunk.js.LICENSE.txt": "/carlossalazar2000/carlossalazar2000.github.io/static/js/2.d3efe588.chunk.js.LICENSE.txt",
+    "static/media/businessSearchApp.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/businessSearchApp.efad71ea.JPG",
+    "static/media/divoc.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/divoc.6e2d42b2.JPG",
+    "static/media/encryptionProject.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/encryptionProject.6a591f5f.JPG",
+    "static/media/profile.jpg": "/carlossalazar2000/carlossalazar2000.github.io/static/media/profile.2523522f.jpg",
+    "static/media/rakApp.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/rakApp.4b76d453.JPG",
+    "static/media/recipeMeetsYou.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/recipeMeetsYou.d8ac66c7.JPG",
+    "static/media/venditShoppingApp.JPG": "/carlossalazar2000/carlossalazar2000.github.io/static/media/venditShoppingApp.6367ea31.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8659cf57.js",
+    "static/css/2.d8077e82.chunk.css",
+    "static/js/2.d3efe588.chunk.js",
+    "static/css/main.936a4e4a.chunk.css",
+    "static/js/main.88d6d0a7.chunk.js"
+  ]
+}
