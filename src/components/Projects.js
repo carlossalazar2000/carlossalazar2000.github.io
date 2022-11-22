@@ -125,7 +125,7 @@ class Projects extends Component {
 
       {
         title: "Cybersecurity Encryption Project",
-        description: "This is a GUI that allows users to view certain encryption schemes. Encryption methods include Caesar cipher, reverse cipher, and homomorphic encryption. GUI interface is built with HTML, CSS, JavaScript, and Python.",
+        description: "This is a GUI that allows users to view certain encryption schemes. Encryption methods include Caesar cipher, reverse cipher, AES encryption, and homomorphic encryption. GUI interface is built with HTML, CSS, JavaScript, and Python.",
         image: encryptionImage,
         url: "https://carlossalazar2000.github.io/Cybersecurity-Project/pdfs/processing_encrypted_data.pdf",
         youtubeUrl: "https://www.youtube.com/watch?v=Uh6Eu7aTPes",
