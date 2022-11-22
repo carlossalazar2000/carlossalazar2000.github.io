@@ -5,9 +5,9 @@
 
 <h3>Live Site</h3>
 
-View it <a href="https://carlossalazar2000.github.io/"><strong>here</strong></a>
+View it <a href="https://carlossalazar2000.github.io/" target="_blank"><strong>here</strong></a>
 
-<a href="https://carlossalazar2000.github.io/"><img width="100%" src="./src/assets/screenshot.JPG" alt="carlos salazar portfolio preview"/></a>
+<a href="https://carlossalazar2000.github.io/" target="_blank"><img width="100%" src="./src/assets/screenshot.JPG" alt="carlos salazar portfolio preview"/></a>
 
 <br/>
 
