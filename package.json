@@ -1,6 +1,6 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://github.com/carlossalazar2000/carlossalazar2000.github.io",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
