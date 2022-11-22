@@ -33,7 +33,10 @@ class About extends Component {
                   >
                     <span className="wave">Hello! I am Carlos Salazar. I am a graduate student pursuing a master's degree in Computer Science. 
                       I have gained a sufficient amount of knowledge in software engineering, web development, and mobile app development from my work experience and college coursework.
-                      My passions are cloud engineering and mobile app development.
+                      My passions are cloud engineering and mobile app development. If you would like to chat, connect with me on&nbsp;
+                      <a href="https://www.linkedin.com/in/carlos-salazar-174b56196/" target="_blank" rel="noopener noreferrer">
+                        LinkedIn <i className="fab fa-linkedin"></i>.
+                      </a>
                     </span>
 
                   </div>

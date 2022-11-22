@@ -38,7 +38,10 @@ class Footer extends Component {
           <div className="copyright py-4 text-center">
             <div className="container">
               <small>
-                Copyright &copy; Carlos Salazar
+                Copyright &copy; Carlos Salazar&nbsp;
+              </small>
+              <small>
+                •&nbsp;<a href="https://github.com/Dorota1997/react-frontend-dev-portfolio">theme</a>
               </small>
             </div>
           </div>
