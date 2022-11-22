@@ -13,7 +13,7 @@ class Projects extends Component {
         title: "Recipe Meets You Website",
         description: "Recipe Meets You is a website designed to tackle the problem people face by allowing them to be able to use ingredients in there household to find recipes in one central web application. The user will also be safe from there allergies and provided new ideas for creating delicious meals. This website is built using HTML, CSS, and JavaScript, and utilizes Google's NoSQL Database Firebase to store user information.",
         image: recipeMeetsYouImage,
-        url: "https://carlossalazar2000.github.io/Recipe-Meets-You/",
+        url: "https://carlossalazar2000.github.io/Recipe-Meets-You/index.html",
         technologies: [
           {
             name: "HTML 5",
